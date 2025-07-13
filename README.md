@@ -1,1 +1,1 @@
-# testing
+# Kanon-marketplace-devnet
